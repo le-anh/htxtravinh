@@ -1,3 +1,3 @@
 # htxtravinh
 
-Đề tài hợp tác Trà Vinh
+Đề tài hợp tác xã Trà Vinh
